@@ -1,0 +1,24 @@
+.BlueButton {
+    background-color: #0d6efd;
+    border-style: black;
+    padding: 0.5em;
+    color: white;
+}
+
+.UpdateButtonBlack{
+    background-color: #000000;
+    border-style: rgb(248, 247, 247);
+    padding: 0.5em;
+    color: rgb(9, 215, 252);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.DeleteButtonRed{
+    background-color: #fd150d;
+    border-style: black;
+    padding: 0.5em;
+    color: white;
+    margin-right: 10px;
+    margin-left: 40px;
+}
